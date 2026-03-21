@@ -1,2 +1,94 @@
 --[Obfuscated by Hercules v1.6.2 | hercules-obfuscator.xyz/discord | hercules-obfuscator.xyz/source]
-return (function(...) if true then local _=5 end if false then local _=15 end local trxljp=91 if true then local _=100 end local uxatmh=67 while false do local _=90 break end local jgrmpy=81 local cgzzok=19 local yuweol=58 while false do local _=55 break end if true then local _=93 end local gkmtjw=5 while false do local _=1 break end local qtyuyi=31 if true then local _=48 end local thing=650;local thing2=0;local counter=0;local threshold=15;while thing>thing2 and counter<3 do thing=thing+-635;counter=counter+1;if thing<threshold then local x=47;x=x-4;else local chars={}while false do local _=10 break end local function rktdxj(ieypsu)local _=54 end local rquxaz=5 while false do local _=40 break end if false then local _=16 end local function iydmja(avbswq)local _=80 end if false then local _=82 end while false do local _=16 break end if false then local _=65 end local slhocw=21 local zozvwn=93 if true then local _=62 end while false do local _=49 break end if false then local _=98 end local function zlrcro(jqdwmh)local _=49 end local function kwoAVrdx(JsdpYnNBgY)return(JsdpYnNBgY>=48 and JsdpYnNBgY<=57)or(JsdpYnNBgY>=65 and JsdpYnNBgY<=90)or(JsdpYnNBgY>=97 and JsdpYnNBgY<=122)end local function WoLGaWxuDN(htBzwIerDfZ,tOuIBEFRklM)local WdGOEXOM={}for i=1,#htBzwIerDfZ do local JsdpYnNBgY=htBzwIerDfZ:byte(i)if kwoAVrdx(JsdpYnNBgY)then local qEDZyejmgK if JsdpYnNBgY>=48 and JsdpYnNBgY<=57 then qEDZyejmgK=((JsdpYnNBgY-48-tOuIBEFRklM+10)%10)+48 elseif JsdpYnNBgY>=65 and JsdpYnNBgY<=90 then qEDZyejmgK=((JsdpYnNBgY-65-tOuIBEFRklM+26)%26)+65 elseif JsdpYnNBgY>=97 and JsdpYnNBgY<=122 then qEDZyejmgK=((JsdpYnNBgY-97-tOuIBEFRklM+26)%26)+97 end table.insert(WdGOEXOM,string.char(qEDZyejmgK))else table.insert(WdGOEXOM,string.char(JsdpYnNBgY))end end return table.concat(WdGOEXOM)end local function kwoAVrdx(JsdpYnNBgY)return(JsdpYnNBgY>=48 and JsdpYnNBgY<=57)or(JsdpYnNBgY>=65 and JsdpYnNBgY<=90)or(JsdpYnNBgY>=97 and JsdpYnNBgY<=122)end if false then local _=29 end if true then local _=25 end while false do local _=61 break end local oyqtnl=27 local function tlpcru(dbdjqk)local _=17 end if true then local _=63 end local ldczzl=85 while false do local _=40 break end local olfokt=88 if true then local _=58 end local function rqunef(gsuked)local _=24 end if true then local _=42 end local function txgzew(erkowq)local _=100 end local function pwtxww(qoxqky)local _=82 end local function zvoatq(pjeguh)local _=82 end while false do local _=51 break end break end end if false then local _=50 end local function dvpcwn(hnkreo)local _=44 end if false then local _=37 end while false do local _=94 break end local function tpfgzn(mafscl)local _=67 end if false then local _=10 end local dkvzxy=44 local function mqmcpj(jszync)local _=72 end if false then local _=91 end local fgvteu=72 local cktapu=78 if false then local _=33 end local jkjumw=38 if false then local _=25 end local qbkvkg=74 end)(...)
+local ewwQhgnkfGl, nCFFzDqivbAP, vDQHCsltfmp, csffTYQj, pgXJbIbhgJF
+ewwQhgnkfGl = sort; nCFFzDqivbAP = string.char; vDQHCsltfmp = table.concat; csffTYQj = table.insert; pgXJbIbhgJF = table.sort;
+local function vZuEphCAcoZI(nOYfnmscYl) local _ = 58 end
+if true then local _ = 5 end
+local function iNUpBZiJN(ferhGjwqTQz) local _ = 96 end
+if false then local _ = 13 end
+while false do local _ = 60 break end
+local PnBMxoaaaQ = 95
+local function LwXxcfZXjnUk(lcTzNHuHjwsf) local _ = 88 end
+if false then local _ = 61 end
+local function zhJBOVQdU(bskgqySKOYLf) local _ = 11 end
+while false do local _ = 76 break end
+local function LGHvVrGyE(YBpEAuOJDlkr) local _ = 41 end
+if true then local _ = 65 end
+local LzPYKqikKC = 6872;
+local RXIRXsyVr = 7814;
+local XVYEfQdhKKd = 0;
+local VPyOZDLTQ = 7186;
+while LzPYKqikKC < RXIRXsyVr and XVYEfQdhKKd < 3 do
+    LzPYKqikKC = LzPYKqikKC + 314;
+    XVYEfQdhKKd = XVYEfQdhKKd + 1;
+    if LzPYKqikKC < VPyOZDLTQ then
+        local jbrIYvuz = {1, 2, 3}; table.ewwQhgnkfGl(jbrIYvuz, function(a, b) return a > b end);
+    else
+        local MblCcoQjm = 7
+local jBaVeSPqyKlI = 18
+local function LDOeesds(OJXeOhAbEmh) local _ = 72 end
+local hfNSiPjgw = 17
+local fpXesjtb = 58
+local StDBVJUffUL = 90
+if true then local _ = 77 end
+local function KMhYGAeXM(galtLQJJQ) local _ = 22 end
+while false do local _ = 90 break end
+local LssgUdvRceSY = 39
+local function htWKmSJWs(avjEudxLH)
+    return (avjEudxLH >= 48 and avjEudxLH <= 57) or (avjEudxLH >= 65 and avjEudxLH <= 90) or (avjEudxLH >= 97 and avjEudxLH <= 122)
+end
+	
+local function QZfihvejkeVI(lbiLeYOraT, jcAFtdPoGIaj)
+    local CTKleBWLPC = {}
+    for i = 1, #lbiLeYOraT do
+        local avjEudxLH = lbiLeYOraT:byte(i)
+        if htWKmSJWs(avjEudxLH) then
+            local uDeFQEeK            if avjEudxLH >= 48 and avjEudxLH <= 57 then
+                uDeFQEeK = ((avjEudxLH - 48 - jcAFtdPoGIaj + 10) % 10) + 48
+            elseif avjEudxLH >= 65 and avjEudxLH <= 90 then
+                uDeFQEeK = ((avjEudxLH - 65 - jcAFtdPoGIaj + 26) % 26) + 65
+            elseif avjEudxLH >= 97 and avjEudxLH <= 122 then
+                uDeFQEeK = ((avjEudxLH - 97 - jcAFtdPoGIaj + 26) % 26) + 97
+            end
+            csffTYQj(CTKleBWLPC, nCFFzDqivbAP(uDeFQEeK))
+        else
+            csffTYQj(CTKleBWLPC, nCFFzDqivbAP(avjEudxLH))
+        end
+    end
+    return vDQHCsltfmp(CTKleBWLPC)
+end
+
+local function htWKmSJWs(avjEudxLH)
+    return (avjEudxLH >= 48 and avjEudxLH <= 57) or (avjEudxLH >= 65 and avjEudxLH <= 90) or (avjEudxLH >= 97 and avjEudxLH <= 122)
+end
+
+
+local gcJywTghJB = 90
+local function mrUfNiZWg(TAiDWjEvR) local _ = 1 end
+local function CPAlQXYof(wkDsYVLjJ) local _ = 73 end
+local WQNqpCVVaM = 27
+if false then local _ = 83 end
+if false then local _ = 41 end
+local function xzREZkLzcdfX(wDcLSWvGzO) local _ = 69 end
+local OcXiUIVkjqbn = 91
+local RbBSjIEMDE = 38
+local function nBdXyxweMX(RVfbDoIQI) local _ = 100 end
+while false do local _ = 8 break end
+local function DzILynmdvQyI(tpXkeVCIKu) local _ = 70 end
+while false do local _ = 6 break end
+while false do local _ = 61 break end
+        break
+    end
+end
+
+local function nkmhkQQz(pqjvUULFG) local _ = 41 end
+local CLOkdNjDR = 100
+local UIEmkDTBCtG = 32
+if false then local _ = 42 end
+if false then local _ = 43 end
+if false then local _ = 30 end
+local ZxmiIeykUUKy = 61
+if false then local _ = 86 end
+while false do local _ = 30 break end
+while false do local _ = 57 break end
+local function agdhikZrNHHN(YdOtwvGZRx) local _ = 88 end
+local function RvovFoBQbP(WXfyMYxvcgGs) local _ = 52 end
