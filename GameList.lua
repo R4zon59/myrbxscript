@@ -1,5 +1,5 @@
 local Games = {
-  [78041891124723] = "https://raw.githubusercontent.com/R4zon59/myrbxscript/main/BloodDebtv2.lua",
+  [7489122072] = "https://raw.githubusercontent.com/R4zon59/myrbxscript/main/BloodDebtv2.lua",
   [71895508397153] = "https://raw.githubusercontent.com/R4zon59/myrbxscript/main/SigmasDODV2.lua",
   [102871156420149] = "https://raw.githubusercontent.com/R4zon59/myrbxscript/main/thelostfront.lua",
   [123974602339071] = "https://raw.githubusercontent.com/R4zon59/myrbxscript/main/test.lua"
