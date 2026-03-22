@@ -1,5 +1,5 @@
 local ok, Games = pcall(function()
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/R4zon59/myrbxscript/main/GameList.lua"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/R4zon59/myrbxscript/refs/heads/main/GameList.lua"))()
 end)
 
 if ok and Games then
